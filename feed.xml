@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>The Product Brief</title>
     <description>in which I discuss ideas to improve or next-step products, write about technical people writing, and ramble about life</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Jul 2018 21:24:49 -0400</pubDate>
-    <lastBuildDate>Tue, 24 Jul 2018 21:24:49 -0400</lastBuildDate>
+    <link>https://productbrief.github.io/</link>
+    <atom:link href="https://productbrief.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 24 Jul 2018 21:35:25 -0400</pubDate>
+    <lastBuildDate>Tue, 24 Jul 2018 21:35:25 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+
     
       <item>
         <title>Making Things Clear</title>
@@ -54,8 +55,8 @@
 &lt;p&gt;Just my $0.02, for what it’s worth, though I have to admit that I’m glad Mr. Forbes agrees with me. He seems to have done OK.&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Jul 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/career/2017/07/22/making-things-clear.html</link>
-        <guid isPermaLink="true">http://localhost:4000/career/2017/07/22/making-things-clear.html</guid>
+        <link>https://productbrief.github.io/career/2017/07/22/making-things-clear.html</link>
+        <guid isPermaLink="true">https://productbrief.github.io/career/2017/07/22/making-things-clear.html</guid>
         
         
         <category>career</category>
@@ -142,8 +143,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 17 Jun 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/career/2017/06/17/i-never-meant-to-be-a-technical-writer.html</link>
-        <guid isPermaLink="true">http://localhost:4000/career/2017/06/17/i-never-meant-to-be-a-technical-writer.html</guid>
+        <link>https://productbrief.github.io/career/2017/06/17/i-never-meant-to-be-a-technical-writer.html</link>
+        <guid isPermaLink="true">https://productbrief.github.io/career/2017/06/17/i-never-meant-to-be-a-technical-writer.html</guid>
         
         
         <category>career</category>
@@ -227,13 +228,14 @@ Creating API Documentation&lt;/a&gt; by the folks from Madcap Flare, an industry
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 10 Jun 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/writing/2017/06/10/resources-to-learn-tech-writing.html</link>
-        <guid isPermaLink="true">http://localhost:4000/writing/2017/06/10/resources-to-learn-tech-writing.html</guid>
+        <link>https://productbrief.github.io/writing/2017/06/10/resources-to-learn-tech-writing.html</link>
+        <guid isPermaLink="true">https://productbrief.github.io/writing/2017/06/10/resources-to-learn-tech-writing.html</guid>
         
         
         <category>writing</category>
         
       </item>
     
+
   </channel>
 </rss>

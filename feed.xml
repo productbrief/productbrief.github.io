@@ -5,26 +5,26 @@
     <description>in which I discuss ideas to improve or next-step products, write about technical people writing, and ramble about life</description>
     <link>https://productbrief.github.io/</link>
     <atom:link href="https://productbrief.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Aug 2018 10:30:19 -0400</pubDate>
-    <lastBuildDate>Wed, 22 Aug 2018 10:30:19 -0400</lastBuildDate>
+    <pubDate>Wed, 22 Aug 2018 15:55:17 -0400</pubDate>
+    <lastBuildDate>Wed, 22 Aug 2018 15:55:17 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
 
     
       <item>
         <title>DeveloperHub.io - documentation made easy</title>
-        <description>&lt;p&gt;&lt;em&gt;tl;dr&lt;/em&gt;: DeveloperHub.io (&lt;a href=&quot;https://www.developerhub.io&quot;&gt;www.developerhub.io&lt;/a&gt;) is a new product that makes it easy to create documentation in minutes. It is clean, has core features, and is headed in the right direction.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;tl;dr&lt;/em&gt;: DeveloperHub.io (&lt;a href=&quot;https://www.developerhub.io&quot;&gt;www.developerhub.io&lt;/a&gt;) is a new product that makes it easy to create documentation in minutes. It’s clean, has core features, and is headed in the right direction.&lt;/p&gt;
 
 &lt;h1 id=&quot;the-product&quot;&gt;the product:&lt;/h1&gt;
 
-&lt;p&gt;DeveloperHub.io is a new documentation product that clearly aims to get you writing and publishing quickly and easily. It succeeds. Within seconds of sitting down to the website, you’ll be creating instantly available documentation. With no need to build, convert, or template your docs, this is SaaS publishing at its easiest.&lt;/p&gt;
+&lt;p&gt;DeveloperHub.io is a new documentation product that clearly aims to get you writing and publishing quickly and easily. It succeeds. Within seconds of sitting down at the website, you’ll be creating instantly available documentation. With no need to build, convert, or template your docs, this is SaaS publishing at its easiest.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://s3.amazonaws.com/ryanhaber/productbrief/content/images/developerhub-wysiwyg.png&quot; alt=&quot;simple wysiwyg editor&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;DeveloperHub.io has a simple and intuitive WYSIWYG editor, which means anybody can use it. Adding an image or a code block is as simple as a mouse click. The control panel is simple and reasonably intuitive. As a result, tasks like creating a new version from an existing version are also easy.&lt;/p&gt;
+&lt;p&gt;DeveloperHub.io has a simple and intuitive WYSIWYG editor, which means anybody can use it. Adding an image or a code block is as easy as a mouse click. The control panel is simple and reasonably intuitive. As a result, tasks like creating a new version from an existing version are also easy.&lt;/p&gt;
 
-&lt;p&gt;You get basic white-labeling options: you can customize the color scheme, logo, and favicon. Obviously this customization will not be enough for some enterprises. For most of us looking to just get up and running, it’s plenty.&lt;/p&gt;
+&lt;p&gt;You get basic white-labeling options: you can customize the color scheme, logo, and favicon. Obviously, this customization will not be enough for some enterprises. But for most of us looking to just get up and running, it’s plenty.&lt;/p&gt;
 
-&lt;p&gt;You also get some expected core features that would be required for any enterprise work, even for a small team: you can assign your own DNS to your documentation and you can have permissions for teammates.&lt;/p&gt;
+&lt;p&gt;You also get some expected core features that would be required for any enterprise work, even for a small team: you can assign your own DNS to your documentation and you can set permissions for teammates.&lt;/p&gt;
 
 &lt;p&gt;The output is clean and simple.&lt;/p&gt;
 
@@ -34,45 +34,45 @@
 
 &lt;h1 id=&quot;the-competition&quot;&gt;the competition:&lt;/h1&gt;
 
-&lt;p&gt;DeveloperHub.io is a turnkey SaaS docs portal for small scale documentation projects. As indicated by the code block feature and, well, the name, this product clearly has an eye toward products that include code samples. It could be used easily for other small documentation projects. Other such products and services include:&lt;/p&gt;
+&lt;p&gt;DeveloperHub.io is a turnkey SaaS docs portal for small-scale documentation projects. As indicated by the code block feature and, well, the name, this product clearly has an eye toward products that include code samples though it could be used easily for other small documentation projects. Other such products and services include:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.proprofs.com/knowledgebase/&quot;&gt;ProProfs KnowledgeBase&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://clickhelp.com/&quot;&gt;ClickHelp&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://paligo.net/&quot;&gt;Paligo&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.proprofs.com/knowledgebase/&quot;&gt;ProProfs KnowledgeBase&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;These products are all SaaS docs portals.&lt;/p&gt;
 
-&lt;p&gt;I distinguish DeveloperHub.io and its competition from products such as &lt;a href=&quot;https://www.adobe.com/products/robohelp.html&quot;&gt;Adobe RoboHelp&lt;/a&gt;, &lt;a href=&quot;https://www.madcapsoftware.com/products/flare/&quot;&gt;Madcap Flare&lt;/a&gt;, and &lt;a href=&quot;https://www.oxygenxml.com/doc/versions/20.1/ug-editor/&quot;&gt;OxygenXML Editor&lt;/a&gt;. The key distinctions are platform, scale, and end product. DeveloperHub.io is SaaS. These products are enterprise installations. DeveloperHub.io helps smaller documentation projects through their life cycle. These products cope with thousands of documents across multiple projects and are overkill and have too much overhead for smaller projects. DeveloperHub.io provides a live website as output. Those products support multiple export and output paths.&lt;/p&gt;
+&lt;p&gt;I distinguish DeveloperHub.io and its competition from products such as &lt;a href=&quot;https://www.adobe.com/products/robohelp.html&quot;&gt;Adobe RoboHelp&lt;/a&gt;, &lt;a href=&quot;https://www.madcapsoftware.com/products/flare/&quot;&gt;Madcap Flare&lt;/a&gt;, and &lt;a href=&quot;https://www.oxygenxml.com/doc/versions/20.1/ug-editor/&quot;&gt;OxygenXML Editor&lt;/a&gt;. The key distinctions are platform, scale, and end product. DeveloperHub.io is SaaS, whereas these products are enterprise installations. DeveloperHub.io helps smaller documentation projects through their life cycle, while these products cope with thousands of documents across multiple projects – it’s overkill with too much overhead for smaller projects. DeveloperHub.io provides a live website as output. Those products support multiple export and output paths.&lt;/p&gt;
 
-&lt;p&gt;Paligo is in some ways the closest. Its UI is perhaps most similar to DeveloperHub.io’s. In reality, though, Paligo is an XML content authoring tool and probably more akin to OxygenXML for practical purposes. Its key value offering is single-source multi-channel authoring.&lt;/p&gt;
+&lt;p&gt;In some ways, Paligo is the closest: its UI is perhaps most similar to DeveloperHub.io’s. In reality, though, Paligo is an XML content authoring tool and probably more akin to OxygenXML for practical purposes. Paligo’s key value offering is single-source, multi-channel authoring.&lt;/p&gt;
 
-&lt;p&gt;DeveloperHub.io probably shouldn’t get into multi-channel output at this point. It’s for a developer audience mainly and for that purpose can stick to the web and really dig into easy web docs authoring. Its team can really get into that fight by adding some single-source magic.&lt;/p&gt;
+&lt;p&gt;DeveloperHub.io probably shouldn’t get into multi-channel output at this point. It’s for a developer audience mainly, and for that purpose can stick to the web and really dig into easy web docs authoring. Its team can really get into that fight by adding some single-source magic, which I propose here.&lt;/p&gt;
 
-&lt;h1 id=&quot;proposals&quot;&gt;proposals:&lt;/h1&gt;
+&lt;h1 id=&quot;add-features&quot;&gt;add features:&lt;/h1&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;Make formatting controls a bit more obvious: It’s probably me. The formatting controls weren’t obvious to me, but they are there. Once you figure them out or guess, they do make sense, so I’m not sure something better is really possible. Just something for the team to consider.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Make formatting controls a bit more obvious.&lt;/strong&gt; It’s probably me. The formatting controls weren’t obvious, but they are there. Once you figure them out or guess, they do make sense, so I’m not sure something better is really possible. Just something for the team to consider.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Snippets and variables for easy single-source writing: Writers, like coders, often want to reuse blocks of code. Very often, they want to be able to edit this blocks in one place and have the edits mirrored in the other instances. We usually call thse blocks ‘snippets’. Variables allow users to insert values like current year that are updated at build or display time. Both snippets and variables are a common approach to keeping content fresh and consistent. In the case of either snippets or variables, the team will need to pay careful attention to how styling is applied: whether from the source, the referring location, or some cascading approach.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Snippets and variables for easy single-source writing.&lt;/strong&gt; Writers, like coders, often want to reuse blocks of content. Very often, they want to be able to edit these blocks in one place and have the edits mirrored in the other instances. We usually call thse blocks “snippets”. Variables allow users to insert values like current year that are updated at build or display time. Both snippets and variables are a common approach to keeping content fresh and consistent. For either snippets or variables, the team will need to pay careful attention to how styling is applied: whether from the source, the referring location, or some cascading approach.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Internal references: It would be great to have hyperlinks within the documentation automatically updated in the event that a page’s URL or name changes.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Internal references.&lt;/strong&gt; It would be great to have hyperlinks within the documentation automatically updated in the event that a page’s URL or name changes.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Swagger integration: The dream here is a fancy and configurable UI for OpenAPI/Swagger documentation built into the product. The API reference could be a stand-alone page or it could be inserted into existing docs. The ability to directly edit the HTML of a page would provide a short-term or less dreamy approach to this enhancement.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Swagger integration.&lt;/strong&gt; The dream here is a fancy and configurable UI for OpenAPI/Swagger documentation built into the product. The API reference could be a stand-alone page or it could be inserted into existing docs. The ability to directly edit the HTML of a page would provide a short-term or less-dreamy approach to this enhancement.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Additional customizations: Some clients will want a landing page that they can more fully or totally control. Generally speaking, it will also be useful to allow an HTML view of any particular content page as well, though probably within the existing template. Writers may want this view so they can code tables, set internal anchors, etc. The ability to inject css and javascript may also be helpful to many users.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Additional customizations.&lt;/strong&gt; Some clients will want a landing page that they can more fully or totally control. Generally speaking, it will also be useful to allow an HTML view of any particular content page as well, though probably within the existing template. Writers may want this view so they can code tables, set internal anchors, etc. The ability to inject CSS and JavaScript may also be helpful to many users.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -80,20 +80,20 @@
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;I suggest a basic tier of use for free with the product scaling along with customers’ needs and ability to pay.&lt;/p&gt;
+    &lt;p&gt;Add a basic tier of free use with the product scaling along with customers’ needs and ability to pay.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;I suggest the DeveloperHub.io team charge for: additional users, additional customizations, additional plugins, bulk import/export or maybe import/export at a data level.&lt;/p&gt;
+    &lt;p&gt;The DeveloperHub.io team could charge for: additional users, additional customizations, additional plugins, and bulk import/export or maybe import/export at a data level.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Another service to consider supplying and charging for: an embeddable HTML element with supporting CSS/JS that does a quick, autocomplete/suggested-completion query of the documentation. Content developers can embed such an element in, among other places, customer support request pages.&lt;/p&gt;
+    &lt;p&gt;Add a service to supply and charge for: an embeddable HTML element with supporting CSS/JavaScript that does a quick, autocomplete/suggested-completion query of the documentation. Content developers can embed such an element in, among other places, customer support request pages.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h1 id=&quot;scale-it&quot;&gt;scale it:&lt;/h1&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Technical writing trade shows, associations, and forums seem a pretty obvious forum for getting the word out.&lt;/li&gt;
+  &lt;li&gt;Get the word out at technical writing trade shows, associations, and forums.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 22 Jul 2018 00:00:00 -0400</pubDate>

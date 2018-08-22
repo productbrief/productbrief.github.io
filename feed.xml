@@ -5,8 +5,8 @@
     <description>in which I discuss ideas to improve or next-step products, write about technical people writing, and ramble about life</description>
     <link>https://productbrief.github.io/</link>
     <atom:link href="https://productbrief.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Aug 2018 19:32:09 -0400</pubDate>
-    <lastBuildDate>Tue, 21 Aug 2018 19:32:09 -0400</lastBuildDate>
+    <pubDate>Wed, 22 Aug 2018 10:30:19 -0400</pubDate>
+    <lastBuildDate>Wed, 22 Aug 2018 10:30:19 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
 
     
@@ -34,7 +34,7 @@
 
 &lt;h1 id=&quot;the-competition&quot;&gt;the competition:&lt;/h1&gt;
 
-&lt;p&gt;DeveloperHub.io is a turnkey SaaS docs portal for small scale documentation projects. As indicated by the code block feature and, well, the name, this product clearly has an eye toward products that include code samples. It could be used easily for other small documentatio projects. Other such products and services include:&lt;/p&gt;
+&lt;p&gt;DeveloperHub.io is a turnkey SaaS docs portal for small scale documentation projects. As indicated by the code block feature and, well, the name, this product clearly has an eye toward products that include code samples. It could be used easily for other small documentation projects. Other such products and services include:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -83,7 +83,7 @@
     &lt;p&gt;I suggest a basic tier of use for free with the product scaling along with customers’ needs and ability to pay.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;I suggest the Developwe Hib team charge for: additional users, additional customizations, additional plugins, bulk import/export or maybe import/export at a data level.&lt;/p&gt;
+    &lt;p&gt;I suggest the DeveloperHub.io team charge for: additional users, additional customizations, additional plugins, bulk import/export or maybe import/export at a data level.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Another service to consider supplying and charging for: an embeddable HTML element with supporting CSS/JS that does a quick, autocomplete/suggested-completion query of the documentation. Content developers can embed such an element in, among other places, customer support request pages.&lt;/p&gt;

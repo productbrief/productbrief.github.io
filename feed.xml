@@ -5,10 +5,65 @@
     <description>in which I discuss ideas to improve or next-step products, write about technical people writing, and ramble about life</description>
     <link>https://productbrief.github.io/</link>
     <atom:link href="https://productbrief.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Sep 2018 21:55:42 -0400</pubDate>
-    <lastBuildDate>Tue, 25 Sep 2018 21:55:42 -0400</lastBuildDate>
+    <pubDate>Tue, 09 Oct 2018 06:26:38 +0800</pubDate>
+    <lastBuildDate>Tue, 09 Oct 2018 06:26:38 +0800</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
 
+    
+      <item>
+        <title>A Personal Thought Experiment</title>
+        <description>&lt;p&gt;When I was an undergraduate, a history major, I read a substantial amount. That’s what a history major at Loyola Univerity Maryland amounted to in the late 1990s: a reading, thinking, writing machine. I typically read and digested 200-300 pages per week for each of my seminars. I processed those assignments well enough to write about 10 pages in response to each of them.&lt;/p&gt;
+
+&lt;p&gt;Then my life started to come into regular contact with the internet. Starting in 2007-10, I can see that my life was getting more and more “connected” to the Internet but less and less connected to the habit of sustained, deep reflection and thought. My social life hasn’t suffered. I spend as much time with people as ever and, thanks in part to the Internet, a wider range of acquaintances and friends than ever before both in person and remotely. But my time in contemplation and study has, since at least 2010, lets say, collapsed.&lt;/p&gt;
+
+&lt;p&gt;That has to change now.&lt;/p&gt;
+
+&lt;p&gt;My spiritual directors have always encouraged me to dig back into prayer and meditation. Now I’m also reading Cal Newton’s book &lt;a href=&quot;https://smile.amazon.com/gp/product/1455586692/&quot;&gt;Deep Work: Rules for Focused Success in a Distracted World&lt;/a&gt;. I’m increasingly convinced, convicted even, that I need to make a discipline of spending time in uninterrupted, disconnected study and contemplation of matters but spiritual and worldly. Here I will not go into the spiritual, but I do want to put out to the world this commitment. I hope that by doing so, my towering pride will force me to follow through lest I get teased and chided. Here’s the commitment, to go into effect the day I return home from my present business trip:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Each weekday morning I will wake up 2 hours before the dog, at approximately 5:30 a.m.&lt;/li&gt;
+  &lt;li&gt;Each early morning, I will drink a glass of water, do some vigorous exercise, and then settle in for 90 minutes of reading and writing in an analog format: book or maybe a kindle or printouts, pen or pencil, and paper. No LCD screen. No Internet. No phone. I’ll transcribe anything worth sharing.&lt;/li&gt;
+  &lt;li&gt;I will spend this morning time in quiet without music, I’m thinking closed in my office where my desk is in the corner facing a wall.&lt;/li&gt;
+  &lt;li&gt;Then I will wake the lazy dog up and make him take a walk.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There are a lot of things I want to study:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A new programming language (I think Julia, but tbd)&lt;/li&gt;
+  &lt;li&gt;Product management and the business of software development&lt;/li&gt;
+  &lt;li&gt;Personal finance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’m going to do this for the end of October through the end of December, see how it goes, and see what are the fruits. I’ll report back here.&lt;/p&gt;
+
+&lt;p&gt;During this two month experiment, I’m also going to:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Scale back on social media in the way that I do every year at Lent: 1/2 hour on Sundays, blackout the rest of the week.&lt;/li&gt;
+  &lt;li&gt;Block personal and work email checking to certain times of the day. I want to think through a schedule before committing to it.&lt;/li&gt;
+  &lt;li&gt;Block of web reading to a particular time of day, also TBD.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Naturally, I’ll need to be in bed by 10:00 or so to have a real shot at making this work.&lt;/p&gt;
+
+&lt;p&gt;I also have to figure out what to do about instant messages (my office uses Slack) so that I can be available but also have fewer distractions.&lt;/p&gt;
+
+&lt;p&gt;I could use advice and suggestions, if you please. This is new ground for me. Or maybe it’s old ground for me, that’s gotten overgrown and gone to waste with tree-sized weeds and dense brush.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/hKU5dmGfSKY?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Radu Florin&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/search/photos/thinking?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Oct 2018 00:00:00 +0800</pubDate>
+        <link>https://productbrief.github.io/career/philosophy/2018/10/08/a-personal-thought-experiment.html</link>
+        <guid isPermaLink="true">https://productbrief.github.io/career/philosophy/2018/10/08/a-personal-thought-experiment.html</guid>
+        
+        
+        <category>career</category>
+        
+        <category>philosophy</category>
+        
+      </item>
     
       <item>
         <title>DeveloperHub.io - documentation made easy</title>
@@ -96,7 +151,7 @@
   &lt;li&gt;Get the word out at technical writing trade shows, associations, and forums.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Sun, 22 Jul 2018 00:00:00 -0400</pubDate>
+        <pubDate>Sun, 22 Jul 2018 00:00:00 +0800</pubDate>
         <link>https://productbrief.github.io/brief/docs-tools/2018/07/22/developer-hub.html</link>
         <guid isPermaLink="true">https://productbrief.github.io/brief/docs-tools/2018/07/22/developer-hub.html</guid>
         
@@ -151,7 +206,7 @@
 
 &lt;p&gt;Just my $0.02, for what it’s worth, though I have to admit that I’m glad Mr. Forbes agrees with me. He seems to have done OK.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 22 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Sat, 22 Jul 2017 00:00:00 +0800</pubDate>
         <link>https://productbrief.github.io/career/2017/07/22/making-things-clear.html</link>
         <guid isPermaLink="true">https://productbrief.github.io/career/2017/07/22/making-things-clear.html</guid>
         
@@ -239,7 +294,7 @@
   &lt;li&gt;Small businesses are more likely than large businesses to hire someone based on potential as much as on experience.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sat, 17 Jun 2017 00:00:00 -0400</pubDate>
+        <pubDate>Sat, 17 Jun 2017 00:00:00 +0800</pubDate>
         <link>https://productbrief.github.io/career/2017/06/17/i-never-meant-to-be-a-technical-writer.html</link>
         <guid isPermaLink="true">https://productbrief.github.io/career/2017/06/17/i-never-meant-to-be-a-technical-writer.html</guid>
         
@@ -324,7 +379,7 @@ Creating API Documentation&lt;/a&gt; by the folks from Madcap Flare, an industry
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sat, 10 Jun 2017 00:00:00 -0400</pubDate>
+        <pubDate>Sat, 10 Jun 2017 00:00:00 +0800</pubDate>
         <link>https://productbrief.github.io/writing/2017/06/10/resources-to-learn-tech-writing.html</link>
         <guid isPermaLink="true">https://productbrief.github.io/writing/2017/06/10/resources-to-learn-tech-writing.html</guid>
         

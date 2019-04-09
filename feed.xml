@@ -5,23 +5,14 @@
     <description>in which I discuss ideas to improve or next-step products, write about technical people writing, and ramble about life</description>
     <link>https://productbrief.github.io/</link>
     <atom:link href="https://productbrief.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Apr 2019 11:21:01 -0400</pubDate>
-    <lastBuildDate>Tue, 09 Apr 2019 11:21:01 -0400</lastBuildDate>
+    <pubDate>Tue, 09 Apr 2019 11:26:50 -0400</pubDate>
+    <lastBuildDate>Tue, 09 Apr 2019 11:26:50 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
 
     
       <item>
         <title>Anatomy of a Good Ticket</title>
-        <description>&lt;style&gt;
-    table, th, td {
-    border-collapse: collapse;
-    border: 3px solid #bbdefe;
-    padding: 5px;
-    margin: 5px;
-}
-&lt;/style&gt;
-
-&lt;p&gt;&lt;em&gt;tl;dr&lt;/em&gt;: A good ticket is clear, correct, complete, and concise. It uses straightforward grammar, includes background information to aid good decision-making, and sets clear expectations. A good ticket is neither too big nor too small.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;tl;dr&lt;/em&gt;: A good ticket is clear, correct, complete, and concise. It uses straightforward grammar, includes background information to aid good decision-making, and sets clear expectations. A good ticket is neither too big nor too small.&lt;/p&gt;
 
 &lt;h1 id=&quot;the-problem&quot;&gt;The Problem&lt;/h1&gt;
 
@@ -67,6 +58,15 @@
 &lt;p&gt;&lt;strong&gt;A good ticket is not too big or not too small&lt;/strong&gt; It suits the time-frame and team members involved in its execution. Think of an atom or a small molecule, not a rocket ship.&lt;/p&gt;
 
 &lt;h1 id=&quot;a-bad-ticket&quot;&gt;A Bad Ticket&lt;/h1&gt;
+
+&lt;style&gt;
+    table, th, td {
+    border-collapse: collapse;
+    border: 3px solid #bbdefe;
+    padding: 5px;
+    margin: 5px;
+}
+&lt;/style&gt;
 
 &lt;p&gt;Imagine a ticket’s contents broken up into this form.&lt;/p&gt;
 

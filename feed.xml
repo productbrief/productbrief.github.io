@@ -5,10 +5,251 @@
     <description>in which I discuss ideas to improve or next-step products, write about technical people writing, and ramble about life</description>
     <link>https://productbrief.github.io/</link>
     <atom:link href="https://productbrief.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 May 2019 15:41:51 -0400</pubDate>
-    <lastBuildDate>Sun, 19 May 2019 15:41:51 -0400</lastBuildDate>
+    <pubDate>Mon, 10 Jun 2019 16:37:41 -0400</pubDate>
+    <lastBuildDate>Mon, 10 Jun 2019 16:37:41 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
 
+    
+      <item>
+        <title>How to Docs and Why</title>
+        <description>&lt;p&gt;&lt;em&gt;tl;dr&lt;/em&gt;: Nothing is worse than having to write docs - except not having them when you need them. You want not too little, but not too much.&lt;/p&gt;
+
+&lt;h1 id=&quot;why-bother&quot;&gt;Why Bother?&lt;/h1&gt;
+
+&lt;p&gt;Docs-writing sucks. That’s why you don’t want to do it, right? Well, that’s fair enough. And even in a world where we rightly prefer working code over documenting the everloving f*@k out of things, there are some good reasons to document your work - whether as code or as an end-product.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;strong&gt;You are helping yourself.&lt;/strong&gt;
+    &lt;br /&gt;The better your documentation is, the fewer questions people will ask you in the future. And when they ask you questions, you will be able to send them a link instead of writing documentation. Based on this reasoning, it is a good idea &lt;em&gt;not&lt;/em&gt; to document things that nobody will ever care about. You might be surprised that somebody asks about X. If that happens, answer their question and add your answer to the documentation in a place where people can find it. Also, you might have to revisit something six months or a year later. It will help you if you made good docs while you were working on it the first time.&lt;br /&gt;
+    &lt;br /&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;strong&gt;You are helping your future self.&lt;/strong&gt;
+    &lt;br /&gt;You will one day arrive at a new job or join a new team. You will hope that the people there have written good docs to help you get started. Pay it forward by writing good docs for whoever comes after you.&lt;br /&gt;
+    &lt;br /&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;strong&gt;You are helping your team.&lt;/strong&gt;
+    &lt;br /&gt;You might win the lottery one day and leave suddenly. Your team will love you if it make it easy for them by documenting your work well.&lt;br /&gt;
+    &lt;br /&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;strong&gt;You are helping our clients or customers.&lt;/strong&gt;
+    &lt;br /&gt;When our stuff is easy to use, people use it more. If it is not easy to use, we can at least explain it and make it feel easy. When we do these things, we get more sales and more renewals.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-makes-good-documentation&quot;&gt;What Makes Good Documentation?&lt;/h1&gt;
+
+&lt;h2 id=&quot;quantifying-the-value-and-quality-of-documentation&quot;&gt;Quantifying the Value and Quality of Documentation&lt;/h2&gt;
+
+&lt;p&gt;People often think that the value of docs is subjective or unquantifiable. This is rarely the case.&lt;/p&gt;
+
+&lt;p&gt;The value of writing is that it can be written once and shared many times, whereas in-person or real-time forms of communication need to be repeated each time a new person needs the information.&lt;/p&gt;
+
+&lt;p&gt;Time is money. Wasted time is wasted money and lost productivity.&lt;/p&gt;
+
+&lt;p&gt;If I answer a question for the external developer community and it takes me 10 minutes, and at my pay scale that is, to keep things easy, say $10, then the company pays $10 each time I answer that question. If the question comes in daily, then in the course of a working year of 240 days, the question costs the company $2400. If I write a good doc and make it easily findable at a cost of $60 one-time, I think you can see how the savings is dramatic. In my experience, a well-written, easily-findable answer eliminates the question 90% of the time. For the other 10%, you can smugly send a link and sit back while the past-you does the present-you’s job for you. This scenario is simplified, but it is a real-life scenario that I live repeatedly. We all answer any number of questions over and over again because of disorganized knowledge management. This problem is not unique to our company.&lt;/p&gt;
+
+&lt;p&gt;Depending on the complexity of your documentation problem and your channels for interacting with your docs’ users, you can gather just this sort of data and more. How long does it take to read a doc? How many times do people read the doc and then contact customer support? How often is a question asked of customer support? How easy is it to find the document in the docs repository when you know it exists? How often do internal or external search queries for relevant questions bring up the relevant doc or an irrelevant doc? What is the user behavior like when they land on a doc from a seemingly relevant search query. All of this questions can be answered objectively using modern technology. These answers, in turn, are the first data points for understanding the cost of difficult or missing documentation. They are a good first step in figuring out what needs to be documented or what docs need improvement.&lt;/p&gt;
+
+&lt;p&gt;The question is, then, what things should be documented?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Document questions that are clearly or probably going to be asked.&lt;/li&gt;
+  &lt;li&gt;When you get asked a new question, might as well write it in a generally-applicable way if possible and quickly insert it into the best location in your documentation structure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What should not be documented?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Things nobody cares about&lt;/li&gt;
+  &lt;li&gt;Things that you are proud of but really only you care about, like how hard you worked - tell your mom or write a blog post.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The trick is to anticipate the probable audiences for a subject matter and what they probably need to know.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So much for the value of a doc.&lt;/p&gt;
+
+&lt;p&gt;What about the quality of a doc? Isn’t this subjective?&lt;/p&gt;
+
+&lt;p&gt;No. Not at all. A doc has a job to do and it is good inasmuch as it accomplishes that task. That is the absolute and completely objective standard to the quality of technical documentation. Suppose I write a document for experienced Java engineers and, out of a 100 engineers, 17 understand it. No matter how smart I think I am, I have failed. That score will save very few people any time.&lt;/p&gt;
+
+&lt;p&gt;There are other objective standards, too. The subject of readability, the ease and speed with which prose can be read and understood, is a very well researched topic. See &lt;a href=&quot;https://readable.io&quot;&gt;https://readable.io&lt;/a&gt; or &lt;a href=&quot;https://hemingwayapp.com&quot;&gt;https://hemingwayapp.com&lt;/a&gt; for free or low-cost readability scorers that will tell you the difficulty or ease of reading your doc and what makes it easier or harder. They typically use a set of established formulas to return a grade level, a letter grade, or a percentage score. They often give good tips for improving your particular text. Aim for a 7-9th grade reading level. This isn’t dumbing anything down - this is making it so your document’s user does not have to figure out what you were trying to say. This is just making yourself plain to even a teenager.&lt;/p&gt;
+
+&lt;p&gt;The principles and tips below will help you take your “business-ese” and easily transform it into clear text that your intended audience can understand. One caveat is that big words affect readability. Some words, like &lt;em&gt;utilize&lt;/em&gt; should almost always be replaced with &lt;em&gt;use&lt;/em&gt; because they mean the same thing and use is easier. Other times, you just have to use a bigger word like &lt;em&gt;reciprocation&lt;/em&gt;. That’s OK. Just be readable.&lt;/p&gt;
+
+&lt;h2 id=&quot;understand-your-audience&quot;&gt;Understand Your Audience&lt;/h2&gt;
+&lt;p&gt;Good documentation is written for a specific audience. The author understands the audience and writes only those things that the audience needs to know. The author explains those things in a way that the audience can understand. Some examples include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Other engineers / your future self&lt;/li&gt;
+  &lt;li&gt;Educated, intelligent non-engineers: PMs, Designers, etc.&lt;/li&gt;
+  &lt;li&gt;Managers, Directors, or Executives&lt;/li&gt;
+  &lt;li&gt;External developers&lt;/li&gt;
+  &lt;li&gt;Marketing or sales team members&lt;/li&gt;
+  &lt;li&gt;External end-users&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;understand-your-audiences-needs&quot;&gt;Understand Your Audience’s Needs&lt;/h2&gt;
+
+&lt;p&gt;Audiences need different things at different times.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Conceptual&lt;/strong&gt;: Theoretical overview that explains the &lt;em&gt;What?&lt;/em&gt; and &lt;em&gt;Why?&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tutorial&lt;/strong&gt;: How-to steps that explain &lt;em&gt;How&lt;/em&gt; to accomplish a task.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reference&lt;/strong&gt;: Look-up material when your audience needs to know a fact, like a definition of a word or the parameters accepted by a method.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;make-a-matrix-of-needs&quot;&gt;Make a Matrix of Needs&lt;/h2&gt;
+
+&lt;p&gt;Once you have made a grid of audiences and their potential needs, you can make rational decisions about which ones to document. For example, consider the subject of something technical like a data pipeline. In the follow matrix of needs, we mark spaces with X if we think we probably do not need to write the document because the audience does not likely need it. Otherwise, we comment on what the document should accomplish.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Audience&lt;/th&gt;
+      &lt;th&gt;Conceptual&lt;/th&gt;
+      &lt;th&gt;Tutorial&lt;/th&gt;
+      &lt;th&gt;Reference&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Other engineers&lt;/td&gt;
+      &lt;td&gt;Explain to other engineers what the pipeline does, how it works, and why we set it up that way, so they can get started working on the pipeline. Engineers looking at your code need to know: (a) what you did and (b) why you did it that way. &lt;br /&gt;&lt;br /&gt; (a) should be clear from the code itself. Comments can help explain (b). &lt;/td&gt;
+      &lt;td&gt;Help engineers set up their environment.&lt;/td&gt;
+      &lt;td&gt;List of classes and methods.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PMs / POs&lt;/td&gt;
+      &lt;td&gt;Explain to PMs / POs in a simple way what the pipeline does, how it works, and why we set it up that way.&lt;/td&gt;
+      &lt;td&gt;List of unusual words and their meanings in the context.&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;They can share with engineers.&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Executive summary&lt;/td&gt;
+      &lt;td&gt;Explain in simple, common words, very briefly, what the pipeline does and why.&lt;/td&gt;
+      &lt;td&gt;X&lt;/td&gt;
+      &lt;td&gt;X&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;universal-principles&quot;&gt;Universal Principles&lt;/h2&gt;
+
+&lt;h3 id=&quot;concise&quot;&gt;Concise&lt;/h3&gt;
+
+&lt;p&gt;Do not use more words than you have to. If a sentence can have 10 words and you write 13 words, you have written 30% more than you need to. You ask your reader to read 30% more than they need to. Your writing feels fluffier the more you do this. If you do it a lot, it becomes harder to find answers.&lt;/p&gt;
+
+&lt;p&gt;Pro tip: Avoid using adjectives. Adjectives are usually unnecessary and often change. If you write, “The blue button,” a UX designer will come along and change the color and your docs will be wrong.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I went up to the store in order to buy some organic eggs.  = 13 words&lt;/p&gt;
+
+&lt;p&gt;I went &lt;del&gt;up&lt;/del&gt; to the store &lt;del&gt;in order&lt;/del&gt; to buy &lt;del&gt;some organic&lt;/del&gt; eggs.  → Remove words that do not add value for the particular audience.&lt;/p&gt;
+
+&lt;p&gt;I went to the store to buy eggs. = 8 words = 38% savings.  → Multiply this savings across 100 pages of documentation. &amp;amp;&lt;/p&gt;
+
+&lt;h3 id=&quot;complete&quot;&gt;Complete&lt;/h3&gt;
+
+&lt;p&gt;Try to include everything that somebody is likely to want to know. Do not include things that will not help other people with their work. If you are really proud of something, show it to your mother. The rest of us will be proud of you when we can read your docs and appreciate your work without have to read all the stuff you are proud of.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pro tip&lt;/strong&gt;: Do not create the same content twice if you can avoid it. Instead, use links and iframes to connect or display content as needed. Put related pieces of content close to each other. If related content cannot go nearby, connect them using links, iframes, or another such tool.&lt;/p&gt;
+
+&lt;h3 id=&quot;clear&quot;&gt;Clear&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Clarity is objective.&lt;/strong&gt; If your intended audience does not understand your docs, your docs are not clear.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pro tips&lt;/strong&gt;: use a readability checker like &lt;a href=&quot;https://www.readable.io&quot;&gt;https://www.readable.io&lt;/a&gt; or &lt;a href=&quot;https://www.hemingwayapp.com&quot;&gt;https://www.hemingwayapp.com&lt;/a&gt; to help you achieve the right level for your writing. For technical documentation, aim for levels 7-9. If the only “problem” with your writing is that you have a number of large words that are necessary in the context, that’s OK. You might have to use words like &lt;em&gt;application&lt;/em&gt; or &lt;em&gt;analytical&lt;/em&gt; that typically make a doc a bit harder. You do &lt;strong&gt;not&lt;/strong&gt; have to use words like &lt;em&gt;utilize&lt;/em&gt; when a word like &lt;em&gt;use&lt;/em&gt; is just as good.&lt;/p&gt;
+
+&lt;h3 id=&quot;correct&quot;&gt;Correct&lt;/h3&gt;
+
+&lt;p&gt;Get someone else who understands your content to sanity check it for correctness. If your document is found by a reader to be inaccurate, they will wonder why they should read your work anymore. In some situations, inaccurate information can cause serious harm.&lt;/p&gt;
+
+&lt;h2 id=&quot;organize-your-content&quot;&gt;Organize Your Content&lt;/h2&gt;
+
+&lt;h3 id=&quot;general-principles&quot;&gt;General principles:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Keep related content close to each other.&lt;br /&gt;If a user only needs a bit of information in one place, then put that information in that place. If the user needs the information in more than one place, put it in one place and then link, iframe, or mention it in the other places.&lt;br /&gt;
+    &lt;br /&gt;Example: &lt;em&gt;To log into your account you need credentials. For steps to get credentials, see Getting Credentials&lt;/em&gt;.&lt;br /&gt;
+    &lt;br /&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Avoid writing the same documentation twice.&lt;br /&gt;When someone updates one place, they will often forget to update the other. The two pieces of content fall out of sync and the documentation as a whole becomes less trustworthy.&lt;br /&gt;
+    &lt;br /&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Make different kinds of content (conceptual, reference, etc) visually distinct. Separate them from each other when it makes sense.&lt;br /&gt;
+    &lt;br /&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Use clear heading titles. Headings should answer a question. Headings for conceptual and reference content are usually nouns. Headings for tutorial (how-to) content should start with a verb.&lt;br /&gt;
+    &lt;br /&gt;Bad: &lt;em&gt;How Do I LMGTFY?&lt;br /&gt;
+    &lt;/em&gt;Good: &lt;em&gt;Using Let Me Google That For You&lt;/em&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Bullet points vs numbered lists:&lt;ul&gt;
+      &lt;li&gt;If order does not matter, for instance, when you describe best practices that are independent of each other or when you are sharing concrete facts, then use bullet points (unordered list).&lt;/li&gt;
+      &lt;li&gt;If order does matter, for instance, when you list the steps of a procedure, use a numbered list (ordered list).&lt;br /&gt;
+        &lt;br /&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Use a table of contents for a long document or for a collection of documents.&lt;br /&gt;
+    &lt;br /&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Each thing should be about one thing. You should be able to summarize every book, chapter, paragraph, and procedure in a single sentence.&lt;br /&gt;
+    &lt;br /&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Use tags. Try to use existing tags instead of inventing new ones, whenever possible.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;simple-tips-that-anyone-can-do&quot;&gt;Simple Tips That Anyone Can Do&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Write simple text. Short sentences, easy words, active-voice verbs all help readers quickly move through text.&lt;br /&gt;
+    &lt;br /&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Put the documentation where it is relevant.&lt;br /&gt;If it is relevant to multiple things, make it a separate topic and link to it from all the places where it is relevant.&lt;br /&gt;
+    &lt;br /&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Use existing standards whenever they apply.&lt;br /&gt;
+    &lt;br /&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Use formatting consistently. Otherwise, the formatting loses meaning. Below are some common standards for documentation formatting.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;common-standards-for-formatting-technical-documentation&quot;&gt;Common Standards for Formatting Technical Documentation&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Boldface&lt;/strong&gt; - use boldface to highlight exact words as they appear in the UI when a user needs them for taking action. If they are not exact words or they are not needed for action at that moment, don’t use boldface.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Monospace&lt;/code&gt; - use monospace to indicate words or string as an exact match in code or other technical sources like config files.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Italic&lt;/em&gt; - use italic to indicate that words or string is an exact match that is not in code.&lt;/p&gt;
+
+&lt;p&gt;Ordered lists - use for steps or other information in which the order is essential&lt;/p&gt;
+
+&lt;p&gt;Unordered lists - use for information in which the order doesn’t matter&lt;/p&gt;
+
+&lt;p&gt;H1 - top-level subjects, unless there is no special format for a title, in which case, use H1 for the title of a document&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@neonbrand?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;NeONBRAND&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/search/photos/writing?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Jun 2019 00:00:00 -0400</pubDate>
+        <link>https://productbrief.github.io/general-ideas/soft-skills/2019/06/10/how-to-docs-and-why.html</link>
+        <guid isPermaLink="true">https://productbrief.github.io/general-ideas/soft-skills/2019/06/10/how-to-docs-and-why.html</guid>
+        
+        
+        <category>general-ideas</category>
+        
+        <category>soft-skills</category>
+        
+      </item>
     
       <item>
         <title>Soft Skills You Need</title>

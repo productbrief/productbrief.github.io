@@ -279,36 +279,50 @@
 
 <p>Once you have made a grid of audiences and their potential needs, you can make rational decisions about which ones to document. For example, consider the subject of something technical like a data pipeline. In the follow matrix of needs, we mark spaces with X if we think we probably do not need to write the document because the audience does not likely need it. Otherwise, we comment on what the document should accomplish.</p>
 
-<table>
-  <thead>
+<style>
+  table, th, tr, td {
+    border: 1px solid black;
+    padding: 5px;
+  }
+</style>
+
+<table class="wrapped">
+  <colgroup>
+    <col />
+    <col />
+    <col />
+    <col />
+  </colgroup>
+  <tbody>
     <tr>
       <th>Audience</th>
       <th>Conceptual</th>
       <th>Tutorial</th>
       <th>Reference</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td>Other engineers</td>
-      <td>Explain to other engineers what the pipeline does, how it works, and why we set it up that way, so they can get started working on the pipeline. Engineers looking at your code need to know: (a) what you did and (b) why you did it that way. <br /><br /> (a) should be clear from the code itself. Comments can help explain (b). </td>
+      <td>Explain to other engineers what the pipeline does, how it works, and why we set it up that way, so they can get started working on the pipeline. Engineers looking at your code need to know: (a) what you did and (b) why you did it that way. (A) should be clear from the code itself. Comments can help explain (B). </td>
       <td>Help engineers set up their environment.</td>
       <td>List of classes and methods.</td>
     </tr>
     <tr>
       <td>PMs / POs</td>
-      <td>Explain to PMs / POs in a simple way what the pipeline does, how it works, and why we set it up that way.</td>
+      <td>Explain to PMs / POs in a simple way <span>what the pipeline does, how it works, and why we set it up that way.</span>
+      </td>
+      <td>X</td>
       <td>List of unusual words and their meanings in the context.</td>
-      <td><em>They can share with engineers.</em></td>
     </tr>
     <tr>
-      <td>Executive summary</td>
-      <td>Explain in simple, common words, very briefly, what the pipeline does and why.</td>
-      <td>X</td>
-      <td>X</td>
+      <td colspan="1">Executive summary</td>
+      <td colspan="1">Explain in simple, common words, very briefly, what the pipeline does and why.</td>
+      <td colspan="1">X</td>
+      <td colspan="1">X</td>
     </tr>
   </tbody>
 </table>
+
+<p><br /></p>
 
 <h2 id="universal-principles">Universal Principles</h2>
 
@@ -348,33 +362,26 @@
 
 <ul>
   <li>Keep related content close to each other.<br />If a user only needs a bit of information in one place, then put that information in that place. If the user needs the information in more than one place, put it in one place and then link, iframe, or mention it in the other places.<br />
-    <br />Example: <em>To log into your account you need credentials. For steps to get credentials, see Getting Credentials</em>.<br />
-    <br />
+    <b>Example</b>: <em>To log into your account you need credentials. For steps to get credentials, see Getting Credentials</em>.<br />
   </li>
   <li>Avoid writing the same documentation twice.<br />When someone updates one place, they will often forget to update the other. The two pieces of content fall out of sync and the documentation as a whole becomes less trustworthy.<br />
-    <br />
   </li>
   <li>Make different kinds of content (conceptual, reference, etc) visually distinct. Separate them from each other when it makes sense.<br />
-    <br />
   </li>
-  <li>Use clear heading titles. Headings should answer a question. Headings for conceptual and reference content are usually nouns. Headings for tutorial (how-to) content should start with a verb.<br />
-    <br />Bad: <em>How Do I LMGTFY?<br />
-    </em>Good: <em>Using Let Me Google That For You</em>
-    <br />
-    <br />
+  <li>Use clear heading titles. Headings should answer a question. Headings for conceptual and reference content are usually nouns. Headings for tutorial (how-to) content should start with a verb. Generally, headers should not rely on knowledge that a person will not have before reading the content.<br />
+    <b>Bad</b>: <em>How Do I LMGTFY?</em><br />
+    <b>Good</b>: <em>Using Let Me Google That For You</em><br />
+    <b>Better</b>: <em>Making Your Friends Feel Bad by Pointing Out How to Google</em><br />
   </li>
   <li>Bullet points vs numbered lists:<ul>
       <li>If order does not matter, for instance, when you describe best practices that are independent of each other or when you are sharing concrete facts, then use bullet points (unordered list).</li>
       <li>If order does matter, for instance, when you list the steps of a procedure, use a numbered list (ordered list).<br />
-        <br />
       </li>
     </ul>
   </li>
   <li>Use a table of contents for a long document or for a collection of documents.<br />
-    <br />
   </li>
   <li>Each thing should be about one thing. You should be able to summarize every book, chapter, paragraph, and procedure in a single sentence.<br />
-    <br />
   </li>
   <li>Use tags. Try to use existing tags instead of inventing new ones, whenever possible.</li>
 </ul>
@@ -382,14 +389,11 @@
 <h1 id="simple-tips-that-anyone-can-do">Simple Tips That Anyone Can Do</h1>
 
 <ul>
-  <li>Write simple text. Short sentences, easy words, active-voice verbs all help readers quickly move through text.<br />
-    <br />
+  <li>Write simple text. Short sentences, easy words, active-voice verbs all help readers quickly move through text.
   </li>
-  <li>Put the documentation where it is relevant.<br />If it is relevant to multiple things, make it a separate topic and link to it from all the places where it is relevant.<br />
-    <br />
+  <li>Put the documentation where it is relevant.<br />If it is relevant to multiple things, make it a separate topic and link to it from all the places where it is relevant.
   </li>
-  <li>Use existing standards whenever they apply.<br />
-    <br />
+  <li>Use existing standards whenever they apply.
   </li>
   <li>Use formatting consistently. Otherwise, the formatting loses meaning. Below are some common standards for documentation formatting.</li>
 </ul>

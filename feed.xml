@@ -5,8 +5,8 @@
     <description>in which I discuss ideas to improve or next-step products, write about technical people writing, and ramble about life</description>
     <link>https://productbrief.github.io/</link>
     <atom:link href="https://productbrief.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Jun 2019 16:37:41 -0400</pubDate>
-    <lastBuildDate>Mon, 10 Jun 2019 16:37:41 -0400</lastBuildDate>
+    <pubDate>Mon, 10 Jun 2019 16:56:57 -0400</pubDate>
+    <lastBuildDate>Mon, 10 Jun 2019 16:56:57 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
 
     
@@ -107,36 +107,50 @@
 
 &lt;p&gt;Once you have made a grid of audiences and their potential needs, you can make rational decisions about which ones to document. For example, consider the subject of something technical like a data pipeline. In the follow matrix of needs, we mark spaces with X if we think we probably do not need to write the document because the audience does not likely need it. Otherwise, we comment on what the document should accomplish.&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
+&lt;style&gt;
+  table, th, tr, td {
+    border: 1px solid black;
+    padding: 5px;
+  }
+&lt;/style&gt;
+
+&lt;table class=&quot;wrapped&quot;&gt;
+  &lt;colgroup&gt;
+    &lt;col /&gt;
+    &lt;col /&gt;
+    &lt;col /&gt;
+    &lt;col /&gt;
+  &lt;/colgroup&gt;
+  &lt;tbody&gt;
     &lt;tr&gt;
       &lt;th&gt;Audience&lt;/th&gt;
       &lt;th&gt;Conceptual&lt;/th&gt;
       &lt;th&gt;Tutorial&lt;/th&gt;
       &lt;th&gt;Reference&lt;/th&gt;
     &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Other engineers&lt;/td&gt;
-      &lt;td&gt;Explain to other engineers what the pipeline does, how it works, and why we set it up that way, so they can get started working on the pipeline. Engineers looking at your code need to know: (a) what you did and (b) why you did it that way. &lt;br /&gt;&lt;br /&gt; (a) should be clear from the code itself. Comments can help explain (b). &lt;/td&gt;
+      &lt;td&gt;Explain to other engineers what the pipeline does, how it works, and why we set it up that way, so they can get started working on the pipeline. Engineers looking at your code need to know: (a) what you did and (b) why you did it that way. (A) should be clear from the code itself. Comments can help explain (B). &lt;/td&gt;
       &lt;td&gt;Help engineers set up their environment.&lt;/td&gt;
       &lt;td&gt;List of classes and methods.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;PMs / POs&lt;/td&gt;
-      &lt;td&gt;Explain to PMs / POs in a simple way what the pipeline does, how it works, and why we set it up that way.&lt;/td&gt;
+      &lt;td&gt;Explain to PMs / POs in a simple way &lt;span&gt;what the pipeline does, how it works, and why we set it up that way.&lt;/span&gt;
+      &lt;/td&gt;
+      &lt;td&gt;X&lt;/td&gt;
       &lt;td&gt;List of unusual words and their meanings in the context.&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;They can share with engineers.&lt;/em&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Executive summary&lt;/td&gt;
-      &lt;td&gt;Explain in simple, common words, very briefly, what the pipeline does and why.&lt;/td&gt;
-      &lt;td&gt;X&lt;/td&gt;
-      &lt;td&gt;X&lt;/td&gt;
+      &lt;td colspan=&quot;1&quot;&gt;Executive summary&lt;/td&gt;
+      &lt;td colspan=&quot;1&quot;&gt;Explain in simple, common words, very briefly, what the pipeline does and why.&lt;/td&gt;
+      &lt;td colspan=&quot;1&quot;&gt;X&lt;/td&gt;
+      &lt;td colspan=&quot;1&quot;&gt;X&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;universal-principles&quot;&gt;Universal Principles&lt;/h2&gt;
 
@@ -176,33 +190,26 @@
 
 &lt;ul&gt;
   &lt;li&gt;Keep related content close to each other.&lt;br /&gt;If a user only needs a bit of information in one place, then put that information in that place. If the user needs the information in more than one place, put it in one place and then link, iframe, or mention it in the other places.&lt;br /&gt;
-    &lt;br /&gt;Example: &lt;em&gt;To log into your account you need credentials. For steps to get credentials, see Getting Credentials&lt;/em&gt;.&lt;br /&gt;
-    &lt;br /&gt;
+    &lt;b&gt;Example&lt;/b&gt;: &lt;em&gt;To log into your account you need credentials. For steps to get credentials, see Getting Credentials&lt;/em&gt;.&lt;br /&gt;
   &lt;/li&gt;
   &lt;li&gt;Avoid writing the same documentation twice.&lt;br /&gt;When someone updates one place, they will often forget to update the other. The two pieces of content fall out of sync and the documentation as a whole becomes less trustworthy.&lt;br /&gt;
-    &lt;br /&gt;
   &lt;/li&gt;
   &lt;li&gt;Make different kinds of content (conceptual, reference, etc) visually distinct. Separate them from each other when it makes sense.&lt;br /&gt;
-    &lt;br /&gt;
   &lt;/li&gt;
-  &lt;li&gt;Use clear heading titles. Headings should answer a question. Headings for conceptual and reference content are usually nouns. Headings for tutorial (how-to) content should start with a verb.&lt;br /&gt;
-    &lt;br /&gt;Bad: &lt;em&gt;How Do I LMGTFY?&lt;br /&gt;
-    &lt;/em&gt;Good: &lt;em&gt;Using Let Me Google That For You&lt;/em&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;
+  &lt;li&gt;Use clear heading titles. Headings should answer a question. Headings for conceptual and reference content are usually nouns. Headings for tutorial (how-to) content should start with a verb. Generally, headers should not rely on knowledge that a person will not have before reading the content.&lt;br /&gt;
+    &lt;b&gt;Bad&lt;/b&gt;: &lt;em&gt;How Do I LMGTFY?&lt;/em&gt;&lt;br /&gt;
+    &lt;b&gt;Good&lt;/b&gt;: &lt;em&gt;Using Let Me Google That For You&lt;/em&gt;&lt;br /&gt;
+    &lt;b&gt;Better&lt;/b&gt;: &lt;em&gt;Making Your Friends Feel Bad by Pointing Out How to Google&lt;/em&gt;&lt;br /&gt;
   &lt;/li&gt;
   &lt;li&gt;Bullet points vs numbered lists:&lt;ul&gt;
       &lt;li&gt;If order does not matter, for instance, when you describe best practices that are independent of each other or when you are sharing concrete facts, then use bullet points (unordered list).&lt;/li&gt;
       &lt;li&gt;If order does matter, for instance, when you list the steps of a procedure, use a numbered list (ordered list).&lt;br /&gt;
-        &lt;br /&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Use a table of contents for a long document or for a collection of documents.&lt;br /&gt;
-    &lt;br /&gt;
   &lt;/li&gt;
   &lt;li&gt;Each thing should be about one thing. You should be able to summarize every book, chapter, paragraph, and procedure in a single sentence.&lt;br /&gt;
-    &lt;br /&gt;
   &lt;/li&gt;
   &lt;li&gt;Use tags. Try to use existing tags instead of inventing new ones, whenever possible.&lt;/li&gt;
 &lt;/ul&gt;
@@ -210,14 +217,11 @@
 &lt;h1 id=&quot;simple-tips-that-anyone-can-do&quot;&gt;Simple Tips That Anyone Can Do&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Write simple text. Short sentences, easy words, active-voice verbs all help readers quickly move through text.&lt;br /&gt;
-    &lt;br /&gt;
+  &lt;li&gt;Write simple text. Short sentences, easy words, active-voice verbs all help readers quickly move through text.
   &lt;/li&gt;
-  &lt;li&gt;Put the documentation where it is relevant.&lt;br /&gt;If it is relevant to multiple things, make it a separate topic and link to it from all the places where it is relevant.&lt;br /&gt;
-    &lt;br /&gt;
+  &lt;li&gt;Put the documentation where it is relevant.&lt;br /&gt;If it is relevant to multiple things, make it a separate topic and link to it from all the places where it is relevant.
   &lt;/li&gt;
-  &lt;li&gt;Use existing standards whenever they apply.&lt;br /&gt;
-    &lt;br /&gt;
+  &lt;li&gt;Use existing standards whenever they apply.
   &lt;/li&gt;
   &lt;li&gt;Use formatting consistently. Otherwise, the formatting loses meaning. Below are some common standards for documentation formatting.&lt;/li&gt;
 &lt;/ul&gt;

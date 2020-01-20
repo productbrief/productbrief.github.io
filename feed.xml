@@ -5,10 +5,104 @@
     <description>in which I discuss ideas to improve or next-step products, write about technical people writing, and ramble about life</description>
     <link>https://productbrief.github.io/</link>
     <atom:link href="https://productbrief.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Jun 2019 16:56:57 -0400</pubDate>
-    <lastBuildDate>Mon, 10 Jun 2019 16:56:57 -0400</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <pubDate>Mon, 20 Jan 2020 11:05:17 -0500</pubDate>
+    <lastBuildDate>Mon, 20 Jan 2020 11:05:17 -0500</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
 
+    
+      <item>
+        <title>What I've Been Learning Piecemeal</title>
+        <description>&lt;p&gt;&lt;em&gt;tl;dr&lt;/em&gt;: I’ve been lengthening the legs of my skills “tripod” - and done piecemeal, it’s been fun and easy.&lt;/p&gt;
+
+&lt;p&gt;A great mentor of mine, &lt;a href=&quot;https://www.linkedin.com/in/oliviermeyer/&quot; target=&quot;_blank&quot;&gt;Olivier Meyer&lt;/a&gt;, told me one time that in his mind, product management is like a stool resting on a trio of legs:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;organization skills and knowledge - things like running a meeting well, planning and revising plans&lt;/li&gt;
+  &lt;li&gt;business and human skills and knowledge - things like communicating the correct information clearly to the appropriate audience&lt;/li&gt;
+  &lt;li&gt;technical skills and knowledge - the subject matter of your product&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think he was right. Furthermore, I think these three legs apply to all professionals, albeit in proportions that vary with your roles and goals.&lt;/p&gt;
+
+&lt;p&gt;Most of the time, when we start a new role, we have a base set of skills and experience around it, but want - need - to keep growing those skills. That was certain the case for me. I came into product management gradually from technical writing and API documentation. I’m naturally a people person, concerned with others’ opinions and feelings, and I take real pains to express myself clearly and help others express themselves clearly when they seem to be struggling with it. As I’ve gotten older, and with good mentorship, I think I’ve gotten more discreet. That is, I’ve gotten better at knowing what to say and to whom… or what not to say. Great. So I have a base set of people skills, management skills, and tech skills.&lt;/p&gt;
+
+&lt;p&gt;Then what?&lt;/p&gt;
+
+&lt;p&gt;Well, a while ago, I set upon a program of actively growing my skills. My temperament is decidedly &lt;em&gt;not&lt;/em&gt; bent toward taking classes and earning degrees. So instead, I’ve been doing things piecemeal - as I want, when I want, based on my interests and needs. In the last few years, here’s how I’ve been turning myself toward upping my three product management legs.&lt;/p&gt;
+
+&lt;h2 id=&quot;organizational-skills-and-knowledge&quot;&gt;Organizational Skills and Knowledge&lt;/h2&gt;
+
+&lt;p&gt;Lots of books and seeking lots of mentorship. Most recently, my manager, &lt;a href=&quot;https://www.linkedin.com/in/leoalfo/&quot; target=&quot;_blank&quot;&gt;Leonor Alfonso&lt;/a&gt;, has been amazing at patiently helping my grow in this area.&lt;/p&gt;
+
+&lt;p&gt;But other times, I have particular questions or find myself shouting in my head, and need a way of resolving these without going to someone else. Lately, for instance, I needed to produce a roadmap for further into the future than I felt I could really predict. “What do I do!?!”&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://smile.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563&quot; target=&quot;_blank&quot;&gt;Getting Things Done: The Art of Stress-Free Productivity&lt;/a&gt; by David Allen is a great manual for keeping tasks organized and moving along &lt;em&gt;without stressing over it all&lt;/em&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Brett Harned’s overview work &lt;a href=&quot;https://smile.amazon.com/Project-Management-Humans-Helping-People/dp/1933820519/&quot; target=&quot;_blank&quot;&gt;Project Management for Humans: Helping People Get Things Done&lt;/a&gt; is great for helping you get your bearings when your job is running complicated or multi-person projects.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Todd Lombardo’s &lt;a href=&quot;https://smile.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/149197172X&quot; target=&quot;_blank&quot;&gt;Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty&lt;/a&gt; is a must-read for making roadmaps not lie and generally suck.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;business-and-human-skills-and-knowledge&quot;&gt;Business and Human Skills and Knowledge&lt;/h2&gt;
+
+&lt;p&gt;Books and mentors: this is a theme for me with learning soft skills. The number one thing for learning soft skills is not being ashamed of not knowing having them.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’ve sought mentors to my great benefit. Bosses can be great mentors. They are human, so we can’t expect them to know everything, but I have found that finding out what they know and learning from them is very fruitful. The aforementioned Olivier Meyer and &lt;a href=&quot;https://www.linkedin.com/in/scotthurrey/&quot; target=&quot;_blank&quot;&gt;Scott Hurrey&lt;/a&gt; have both been very helpful for me in this regard.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://smile.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071775307/&quot; target=&quot;_blank&quot;&gt;Crucial Conversations: Tools for Talking When Stakes Are High, Second Edition&lt;/a&gt;, by Patterson, Grenny, McMillan, and Switzler, is a fantastic book. It’s not about how to win conversations, but about how to have them when they’re hard. It’s especially good for helping me not only keep my cool but for helping me help my conversation partners keep cool.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://smile.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805/&quot; target=&quot;_blank&quot;&gt;Never Split the Difference: Negotiating As If Your Life Depended On It&lt;/a&gt;, Chris Voss and Tahl Raz, is amazing. Life-altering. It saved me 50% on the cost of roof repairs in my first week and has gone on to help me manage upward, manage downward, and build consensus with clients and coworkers alike.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;technical-skills-and-knowledge&quot;&gt;Technical Skills and Knowledge&lt;/h2&gt;
+
+&lt;p&gt;My product management work isn’t especially technical. I work on a product that deals with non-technical subject matter and faces end-users who aren’t technical people. It’s also been more than a few years since I was a computer science minor. While the theories I learned have never left me, the core skills involved in programming have definitely progressed. And while my goal is not to be an engineer, well, the more you know, right?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Dev forums&lt;/strong&gt;: We all know about stackoverflow. But the last few years, I’ve done a lot of lurking on &lt;a href=&quot;https://dev.to&quot; target=&quot;_blank&quot;&gt;dev.to&lt;/a&gt;. It’s a great site.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Code challenges&lt;/strong&gt;: Lately, I’ve started doing some of dev.to’s coding challenges, like &lt;a href=&quot;https://dev.to/thepracticaldev/daily-challenge-158-rgb-to-hex-conversion-559n&quot; target=&quot;_blank&quot;&gt;make a function to convert rgb to hex&lt;/a&gt;. Here are &lt;a href=&quot;https://gist.github.com/ryanhaber/b3a45b57348b3c3e49f9acbfe625545d&quot; target=&quot;_blank&quot;&gt;my results of that one&lt;/a&gt;. Nothing complicated, but fun. And in this one, I learned that python has string interpolation very much like my good old friend C.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script src=&quot;https://gist.github.com/ryanhaber/b3a45b57348b3c3e49f9acbfe625545d.js&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Teaching others&lt;/strong&gt;: My HTML and CSS skills are sharp and my Javascript skill level is adequate for my needs. I find myself helping people who want to tweak their blogs or build personal websites or portfolios without using a code-free builder. But my favorite protegee is my niece. She’s 12 and learning to code. After mastering &lt;a href=&quot;https://scratch.mit.edu/&quot; target=&quot;_blank&quot;&gt;scratch&lt;/a&gt; a visual coding platform for kids, she wanted to cut her teeth into something more significant. So I’m working through a book (&lt;a href=&quot;https://smile.amazon.com/Creative-Coding-Python-Programming-Projects/dp/1631595814&quot; target=&quot;_blank&quot;&gt;Creative Coding in Python: 30+ Programming Projects in Art, Games, and More&lt;/a&gt;) with her. She’s loving it and so am I. While I know what a variable is, I have found myself learning little bits here and there, filling in gaps in my piecemeal learning. If you’re an engineer and your protegee is a college student, this book is not right for you. But mentoring and teaching are right for everyone.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-takeaway&quot;&gt;The Takeaway&lt;/h2&gt;
+
+&lt;p&gt;The takeaway here is simple. Whether you’re a product manager, a UX designer, a tech writer, a dev, or even a recruiter - you’re going to benefit from building organization skills, human skills, and technical skills. A recruiter doesn’t have to be a dev or know all the dev skills, but it’s good for recruiters to learn the distinction between Java and Javascript; a dev doesn’t necessarily have to manage a fleet of people, but it will only help her career to know how to keep a large project organized. And the good news is that you can learn these things piecemeal.&lt;/p&gt;
+
+&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@flysi3000?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Simon Abrams&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/man-coding?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Jan 2020 00:00:00 -0500</pubDate>
+        <link>https://productbrief.github.io/career/memoirs/coding/learning/2020/01/20/pm-learns-piecemeal.html</link>
+        <guid isPermaLink="true">https://productbrief.github.io/career/memoirs/coding/learning/2020/01/20/pm-learns-piecemeal.html</guid>
+        
+        
+        <category>career</category>
+        
+        <category>memoirs</category>
+        
+        <category>coding</category>
+        
+        <category>learning</category>
+        
+      </item>
     
       <item>
         <title>How to Docs and Why</title>
@@ -245,8 +339,8 @@
 &lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@neonbrand?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;NeONBRAND&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/search/photos/writing?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Jun 2019 00:00:00 -0400</pubDate>
-        <link>https://productbrief.github.io/general-ideas/soft-skills/2019/06/10/how-to-docs-and-why.html</link>
-        <guid isPermaLink="true">https://productbrief.github.io/general-ideas/soft-skills/2019/06/10/how-to-docs-and-why.html</guid>
+        <link>https://productbrief.github.io/general-ideas/soft-skills/2019/06/10/how-to-docs-and-why-copy.html</link>
+        <guid isPermaLink="true">https://productbrief.github.io/general-ideas/soft-skills/2019/06/10/how-to-docs-and-why-copy.html</guid>
         
         
         <category>general-ideas</category>
